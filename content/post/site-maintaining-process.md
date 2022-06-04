@@ -35,3 +35,4 @@ projects: []
   * edit the site locally 
   * publish it with git push , anithing else is going to be taken care of by netlify.
 
+hugo new post/site-maintaining-process.md
