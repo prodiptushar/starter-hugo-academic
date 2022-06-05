@@ -36,3 +36,9 @@ projects: []
   * publish it with git push , anithing else is going to be taken care of by netlify.
 
 hugo new post/site-maintaining-process.md
+
+
+lets see if we can link other md files here.
+[Its the default file in the post dir](_index)
+[Its the default file in home dir](../home/about)
+
