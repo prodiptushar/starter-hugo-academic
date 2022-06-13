@@ -69,4 +69,4 @@ highlight_name: true
 Computer lovers , this is a site where I post about linux , emacs, vim , tech and education related stuff. If you like that kind of stuff than click on the rss link and keep updated
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
