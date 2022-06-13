@@ -21,5 +21,4 @@ author: admin
 ---
 
 Forget it i will find it by myself
-linked with [so how is it](../post/site-maintaining-process)
-
+linked with 
